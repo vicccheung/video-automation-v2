@@ -28,7 +28,7 @@
 ### 方式 A：直接克隆到 WorkBuddy 技能目录（推荐）
 
 ```bash
-git clone https://github.com/OWNER/video-automation-v2.git \
+git clone https://github.com/vicccheung/video-automation-v2.git \
   ~/.workbuddy/skills/video-automation-v2
 ```
 
